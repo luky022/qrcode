@@ -1,0 +1,41 @@
+
+
+.titulo{
+    text-align: center;
+
+}
+
+.paragrafo{
+    text-align: center;
+}
+
+.img{
+    max-width: 100%;
+    max-height: 100%;
+    width: 400px
+    
+    
+}
+
+body{
+    background: #D5E1EE;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+
+}
+
+.fundo{
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
+
+
+
+}
+
